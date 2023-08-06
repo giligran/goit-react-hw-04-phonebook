@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { Report } from 'notiflix/build/notiflix-report-aio';
 import useLocalStorage from './utils/hooks';
 import { ContactForm, Filter, ContactList } from './Phonebook';
